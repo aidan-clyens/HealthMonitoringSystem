@@ -1,0 +1,6 @@
+[submodule "Hub"]
+	path = Hub
+	url = git@github.com:aidan-clyens/Hub.git
+[submodule "Wristband"]
+	path = Wristband
+	url = git@github.com:aidan-clyens/Wristband.git
