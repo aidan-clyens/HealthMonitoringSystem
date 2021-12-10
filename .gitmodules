@@ -4,3 +4,6 @@
 [submodule "Wristband"]
 	path = Wristband
 	url = git@github.com:aidan-clyens/Wristband.git
+[submodule "wcam-web-services"]
+	path = wcam-web-services
+	url = git@github.com:deadinsky/wcam-web-services.git
